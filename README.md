@@ -1,12 +1,15 @@
 ### Hola 👋 mi nombre es Facundo Kozlowski 
 
 Quien soy? 
+
 Soy un programador Full Stack orientado al diseño Front-End y creación de contenido visual.
 
 Que hago? 
+
 Actualmente realizo proyectos que me permitan avanzar en mi formacion como programador. Me fascina buscar la resolucion de problemas, a traves del codigo.
 
 Hacia donde me dirijo?
+
 No solo disfruto de la programacion por la libertad de poder crear contenido y aplicaciones que me parecen interesantes, sino que realmente me apasiona ampliar mi perspectiva del mundo y encontrar nuevas soluciones a problemas complejos.
 
 Que tecnologias utilizo?
@@ -18,7 +21,8 @@ JavaScript
 - Express
 - Sequelize
 - Postgres
-  Entre otras tecnologias y frameworks como: Next.js, Angular y MySQL.
+  
+.Entre otras tecnologias y frameworks como: Next.js, Angular y MySQL.
 
   No dudes en contactarme! 💬
   Juntos podemos realizar un gran proyecto que sea util para miles de personas.
