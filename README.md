@@ -1,9 +1,9 @@
-### Hola 👋 ! Mi nombre es Facundo Kozlowski 
+### Hola 👋 mi nombre es Facundo Kozlowski 
 
-Quien soy?
+Quien soy? 
 Soy un programador Full Stack orientado al diseño Front-End y creación de contenido visual.
 
-Que hago?
+Que hago? 
 Actualmente realizo proyectos que me permitan avanzar en mi formacion como programador. Me fascina buscar la resolucion de problemas, a traves del codigo.
 
 Hacia donde me dirijo?
@@ -18,6 +18,13 @@ JavaScript
 - Express
 - Sequelize
 - Postgres
+  Entre otras tecnologias y frameworks como: Next.js, Angular y MySQL.
+
+  No dudes en contactarme! 💬
+  Juntos podemos realizar un gran proyecto que sea util para miles de personas.
+  facukozlowski98@gmail.com
+  https://www.linkedin.com/in/facundo-kozlowski-257100246/
+  
 
 <!--
 **facukozlowski/facukozlowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
