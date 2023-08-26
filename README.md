@@ -1,4 +1,4 @@
-### Hola! Mi nombre es Facundo Kozlowski 👋
+### Hola 👋 ! Mi nombre es Facundo Kozlowski 
 
 Quien soy?
 Soy un programador Full Stack orientado al diseño Front-End y creación de contenido visual.
