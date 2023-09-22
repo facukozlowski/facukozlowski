@@ -16,11 +16,13 @@ Que tecnologias utilizo?
 El bootcamp de Henry me ha brindado conocimientos solidos en:
 JavaScript
 - React
+- Next.js
 - Redux
-- Node
+- Node.js
 - Express
 - Sequelize
 - Postgres
+- MySQL
   
 .Entre otras tecnologias y frameworks como: Next.js, Angular y MySQL.
 
