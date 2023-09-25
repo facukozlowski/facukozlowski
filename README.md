@@ -17,14 +17,15 @@ El bootcamp de Henry me ha brindado conocimientos solidos en:
 JavaScript
 - React
 - Next.js
+- Angular
 - Redux
 - Node.js
 - Express
 - Sequelize
 - Postgres
 - MySQL
+- MongoDB
   
-.Entre otras tecnologias y frameworks como: Next.js, Angular y MySQL.
 
   No dudes en contactarme! 💬
   Juntos podemos realizar un gran proyecto que sea util para miles de personas.
