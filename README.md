@@ -17,14 +17,16 @@ El bootcamp de Henry me ha brindado conocimientos solidos en:
 JavaScript
 - React
 - Next.js
-- Angular
 - Redux
 - Node.js
 - Express
 - Sequelize
+- Prisma
 - Postgres
 - MySQL
+- SQL server
 - MongoDB
+- Firebase
   
 
   No dudes en contactarme! 💬
